@@ -10,3 +10,4 @@ And this is just the beginning .
 To be continued.
 And yes for IT the future .
 Your user is just one click away.
+"Hello world," tweeted the Perseverance rover, accompanying the words with a frame of the surface of Marse.
